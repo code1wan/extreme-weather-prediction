@@ -27,7 +27,7 @@ Windowing prediction utilizes time series data techniques to forecast future val
 ![Top Features](https://github.com/code1wan/extreme-weather-prediction/assets/133578726/b85862a8-32b2-4df2-890b-9798382de4b0)
 
 ## Modeling and Evaluation
-- **Data Split**: The dataset is split into 80% for training (train) and 20% for testing (test).
+- **Data Split**: The dataset is split into 70% for training (train) and 30% for testing (test).
 - **Methods**: We evaluate various methods including Logistic Regression, Decision Trees, Random Forest, XGBoost, and Gradient Boosting.
 - **Evaluation**: Performance is assessed using a confusion matrix, emphasizing recall to gauge the model's effectiveness in detecting extreme temperature events.
 
