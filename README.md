@@ -49,3 +49,6 @@ Access the interactive dashboard [here](https://lookerstudio.google.com/reportin
 ![Dashboard 2](https://github.com/code1wan/extreme-weather-prediction/assets/133578726/cdddb8f7-83e5-4882-96fe-773ff6633fc8)
 ![Dashboard 3](https://github.com/code1wan/extreme-weather-prediction/assets/133578726/8a4e333a-e9a9-45cc-85d2-08fdd1f027f9)
 ![Dashboard 4](https://github.com/code1wan/extreme-weather-prediction/assets/133578726/b25deb1f-02d8-4a4b-959e-ad5b2c3d6f32)
+
+## Disclaimer
+The datasets used in this project are solely for educational purposes and do not reflect actual values. They should not be used as raw recommendations.
